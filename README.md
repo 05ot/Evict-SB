@@ -3,7 +3,7 @@
 # ⚠️ WARNING
 Selfbotting violates Discord’s Terms of Service.
 You can be disabled, limited, or terminated if you used this.
-I AM not responsible for what you do with this code.
+I AM not responsible for what you do with this client.
 
 ## 🛠 SETUP INSTRUCTIONS
 
