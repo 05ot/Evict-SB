@@ -12,8 +12,8 @@ I AM not responsible for what you do with this code.
 ### 1. Clone & Install
 or just click the green code button and click download zip.
 ```bash
-git clone https://github.com/muzfr/DEVIOUS
-cd devious
+git clone [https://github.com/systemremote/Evict-SB]
+cd evict
 pip install -r requirements.txt
 
 2. Run the Client
