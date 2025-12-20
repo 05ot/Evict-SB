@@ -1,4 +1,3 @@
 discord.py
 discord.py-self
 requests
-aiohttp
