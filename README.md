@@ -1,4 +1,4 @@
-# DISCORD SELF-BOT
+# EVICT SELF-BOTS
 > Ongoing Development
 
 # ⚠️ WARNING
