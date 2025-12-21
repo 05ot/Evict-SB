@@ -1,4 +1,4 @@
-# EVICT  — DISCORD SELF-BOT 
+# EVICT — DISCORD SELF-BOT 
 
 # ⚠️ WARNING
 Selfbotting violates Discord’s Terms of Service.
@@ -6,7 +6,6 @@ You can be disabled, limited, or terminated if you used this.
 I AM not responsible for what you do with this client.
 
 ## 🛠 SETUP INSTRUCTIONS
-
 > Tested on Windows 10 — Python 3.10+ recommended.
 
 ### 1. Clone & Install
