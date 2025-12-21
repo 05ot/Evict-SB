@@ -1,4 +1,5 @@
-# EVICT — DISCORD SELF-BOT 
+# EVICT — DISCORD SELF-BOT
+Ongoing Development
 
 # ⚠️ WARNING
 Selfbotting violates Discord’s Terms of Service.
@@ -15,9 +16,9 @@ git clone [https://github.com/systemremote/Evict-SB]
 cd evict
 pip install -r requirements.txt
 
-### 2. Run the Client
+2. Run the Client
 # python __main__.py
 
-### REQUIREMENTS
+REQUIREMENTS
 All dependencies are in requirements.txt. To install:
 pip install -r requirements.txt
