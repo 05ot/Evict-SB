@@ -12,7 +12,7 @@ I AM not responsible for what you do with this client.
 ### 1. Clone & Install
 or just click the green code button and click download zip.
 ```bash
-git clone [https://github.com/05ot/Evict-SB]
+git clone [https://github.com/dbfrs/Evict-SB]
 cd evict
 pip install -r requirements.txt
 
